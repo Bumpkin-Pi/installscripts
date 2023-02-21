@@ -1,0 +1,7 @@
+lunar-client
+minecraft-launcher
+steam
+mgba-sdl
+mgba-qt
+melonds
+citra-bin

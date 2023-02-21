@@ -1,0 +1,4 @@
+jetbrains-toolbox
+google-chrome
+discord
+obs
