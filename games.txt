@@ -5,3 +5,4 @@ mgba-sdl
 mgba-qt
 melonds
 citra-bin
+heroic-games-launcher
