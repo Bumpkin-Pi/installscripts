@@ -3,7 +3,7 @@
 cmd=(dialog --separate-output --checklist "Select options:" 22 76 16)
 options=(1 "Basics" on
          2 "Games" off
-         3 "Games" off)
+         3 "Heavier" off)
 choices=$("${cmd[@]}" "${options[@]}" 2>&1 >/dev/tty)
 clear
 for choice in $choices
