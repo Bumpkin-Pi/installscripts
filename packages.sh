@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cmd=(dialog --separate-output --checklist "Select options:" 22 76 16)
+cmd=(dialog --separate-output --checklist "Select package groups to install:" 22 76 16)
 options=(1 "Basics" on
          2 "Games" off
          3 "Heavier" off)

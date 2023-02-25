@@ -11,3 +11,4 @@ sublime-text-4
 flameshot
 xcalib
 rofi
+volumeicon
